@@ -1,0 +1,12 @@
+name: jpeg
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - scipy
+  - matplotlib
+  - jupyter
+  - jupyterlab
+  - imageio
+  - wget
+
